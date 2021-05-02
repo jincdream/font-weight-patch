@@ -1,7 +1,7 @@
 {
-  "name": "",
-  "version": "0.0.1",
-  "description": "",
+  "name": "font-weight-patch",
+  "version": "0.1.0",
+  "description": "font weight patch",
   "keywords": [
     "js",
     "core"
@@ -15,7 +15,7 @@
     "type": "git",
     "url": ""
   },
-  "author": "jinc.cjc <jinc.cjc@alibaba-inc.com>",
+  "author": "jinc.cjc<jinc.cjc@alibaba-inc.com>",
   "license": "MIT",
   "engines": {
     "node": ">=8.5",
